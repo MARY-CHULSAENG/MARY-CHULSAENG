@@ -6,13 +6,7 @@
 
 <p>🤎New to the programming world and passionate about technology,  my personal studies are focused on Front-end development.</p>
 
-##
 
-<div align="center">
- <a href="https://github.com/MaryNascimento">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MaryNascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryNascimento&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 <br>
 
