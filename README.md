@@ -3,7 +3,7 @@
  <img alt="MaryImg" height="250px" style="border-radius:300px" src="https://i.ibb.co/MZDXJFq/download20220902131354-removebg.png">
 </div>
 
-<p>🎓 Student of the 3nd semester of Computer Science at Centro Universitário Barão de Mauá, in Ribeirão Preto-SP.</p>
+<p>🎓 Student of the 4nd semester of Computer Science at Centro Universitário Barão de Mauá, in Ribeirão Preto-SP.</p>
 
 <p>🤎New to the programming world and passionate about technology,  my personal studies are focused on Front-end development.</p>
 
